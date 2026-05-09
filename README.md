@@ -13,7 +13,6 @@ QA Tester Portfolio Website
 ## Live Site
 https://subodh-portfolio-nhoc.vercel.app/
 
-https://subodhgavhane.github.io/Portfolio/
 
 ---
 
