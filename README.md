@@ -18,7 +18,7 @@ https://subodh-portfoliocom.vercel.app/
 
 ## 🚀 About Me
 
-* 🌱 Software tester, currently holding **+1** years experience.
+* 🌱 Software tester, currently holding **+2** years experience.
 * 👯 Looking to collaborate on **QA Automation / Testing Projects / Open Source**
 * 🤔 Seeking help with **advanced automation frameworks**
 * 💬 Ask me about **QA, Automation, AI**
